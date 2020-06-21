@@ -1,0 +1,8 @@
+---
+name: ScoreBoardBW
+author: BlueWhaleYT
+main: BlueWhaleYT\ScoreBoardBW\main
+api: 3.13.0
+version: 1.0.0
+description: Scoreboard
+...
