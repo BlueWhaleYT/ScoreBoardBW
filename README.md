@@ -6,8 +6,16 @@ Bottom of the image is the preview after installed the plugin.
 
 ![image](https://i.ibb.co/KGCWs88/Screenshot-20200621-135502-Minecraft.jpg)
 
+## Editing Title
+
+"world" is default selector of the world that scoreboard activates in.
+
+```
+$this->loader->getScore()->new ($player, "world", "§eServer");
+```
+
 ## Adding Lines
 
 ```
-$this->loader->getScore()->setLine($player, 1 ,"tesr"; // 1 means the first line
+$this->loader->getScore()->setLine($player, 1 ,"Your Text"; // 1 means the first line
 ```
