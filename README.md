@@ -10,12 +10,12 @@ Bottom of the image is the preview after installed the plugin.
 
 "world" is default selector of the world that scoreboard activates in.
 
-```
+```csharp
 $this->loader->getScore()->new ($player, "world", "§eServer");
 ```
 
 ## Adding Lines
 
-```
+```csharp
 $this->loader->getScore()->setLine($player, 1 ,"Your Text"; // 1 means the first line
 ```
