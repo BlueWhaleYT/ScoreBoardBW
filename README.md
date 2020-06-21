@@ -9,5 +9,5 @@ Bottom of the image is the preview after installed the plugin.
 ## Adding Lines
 
 ```
-$this->loader->getScore()->setLine($player, 1 ,"§fPlayer: §b" . $player->getName());
+$this->loader->getScore()->setLine($player, 1 ,"tesr"; // 1 means the first line
 ```
